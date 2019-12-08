@@ -1,0 +1,3 @@
+120 = seratus dua puluh 
+0 = Nol
+9999 = sembilan ribu sembilan ratus sembilan puluh sembilan
